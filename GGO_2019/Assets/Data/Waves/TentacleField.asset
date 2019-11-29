@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baed44505ca01b949bec792988f94bdc, type: 3}
+  m_Name: TentacleField
+  m_EditorClassIdentifier: 
+  m_BaseAngle: -138
+  m_InitialDelay: 1
+  shuffleAngle: 1
+  shuffleWaves: 1
+  m_Waves:
+  - m_Type: 2
+    m_Angle: 24
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 48
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 72
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 96
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 120
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 144
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 168
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 192
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 216
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 240
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 264
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 288
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 312
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 336
+    m_Duration: 1
+  - m_Type: 2
+    m_Angle: 360
+    m_Duration: 1
